@@ -1,4 +1,4 @@
-o-  Hi, I’m @randomKid-777
+ Hi, I’m @randomKid-777
 -  I’m interested in websites, raspberry pi, old imacs, python, 3d printing, and linux ...
 -  I’m currently learning everything im interested in, specially python and websites/html/css
 -  I’m looking to collaborate on raspberry pi and websites
